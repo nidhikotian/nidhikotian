@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nidhikotian
 - 👀 I’m interested in developing and optimizing systems.
-- 🌱 I’m currently learning VBA, Java and Python.
+- 🌱 I’m currently learning VBA, R and Python.
 - 💞️ I’m looking to collaborate on any beginner projects to develop my skill set.
 
 <!---
